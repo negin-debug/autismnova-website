@@ -200,11 +200,8 @@ table.lic th { color: var(--ink-2); }
 .site-foot a { color: #e5e8ff; }
 .site-foot nav { display: flex; gap: 8px 22px; flex-wrap: wrap; }
 .site-foot small { display: block; color: #aeb3dc; max-width: 36em; }
-.site-foot a.foot-button {
-  display: inline-block; background: var(--gold); color: #3b2a07; text-decoration: none; font-weight: 800;
-  padding: 8px 16px; border-radius: 12px; min-height: 40px;
-}
-.site-foot a.foot-button:hover { background: #f5d79d; }
+/* Widerrufs-Knopf (§ 356a BGB): gleich wie die anderen Fußzeilen-Links, gut lesbar (Wunsch 2026-11-07) */
+.site-foot a.foot-button { color: #e5e8ff; }
 
 /* ---------- Widerruf ---------- */
 [hidden] { display: none !important; }
