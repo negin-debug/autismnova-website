@@ -80,6 +80,10 @@ a:hover { text-decoration-thickness: 2px; }
 .nav { display: flex; gap: 6px 22px; flex-wrap: wrap; }
 .nav a { color: #d6daf5; text-decoration: none; font-weight: 700; padding: 8px 2px; }
 .nav a:hover, .nav a[aria-current="page"] { color: #fff; text-decoration: underline; text-decoration-thickness: 2px; }
+/* Sprach-Umschalter (2026-11-09): eigene Pille, damit er neben den Menüpunkten als Schalter erkennbar ist */
+.nav a.lang { border: 1.5px solid rgba(214, 218, 245, .45); border-radius: 999px; padding: 6px 14px; }
+.nav a.lang:hover { border-color: #fff; text-decoration: none; }
+.lang-note { font-size: .95rem; color: var(--ink-2); }
 
 /* ---------- Held ---------- */
 .hero {
