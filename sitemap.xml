@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://autismnova.de/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/en/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/ratgeber/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/guides/"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/en/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/guides/"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/ratgeber/meltdown.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/ratgeber/meltdown.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/guides/meltdown.html"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/en/guides/meltdown.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/ratgeber/meltdown.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/guides/meltdown.html"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/support.html"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/en/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/support.html"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/datenschutz.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/en/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/impressum.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/impressum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/legal-notice.html"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/en/legal-notice.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://autismnova.de/impressum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://autismnova.de/en/legal-notice.html"/>
+  </url>
+  <url>
+    <loc>https://autismnova.de/widerruf.html</loc>
+  </url>
+</urlset>
